@@ -6,4 +6,4 @@ class Anagram
     @name = word
     
   def match(array)
-    array.select {|x| x
+    array.select {|x| x.
