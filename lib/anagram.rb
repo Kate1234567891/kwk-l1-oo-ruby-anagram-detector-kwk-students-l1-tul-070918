@@ -4,3 +4,5 @@ class Anagram
   
   def initialize(word)
     @name = word
+
+def 
